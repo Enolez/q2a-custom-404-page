@@ -1,13 +1,13 @@
 <?php
 
 /*
-	Plugin Name: Custom 404 Page
-	Plugin URI: https://github.com/amiyasahu/q2a-custom-404-page
-	Plugin Description: Customized 404 page for Question2Answer site 
+	Plugin Name: Enolez Custom 404 Page
+	Plugin URI: https://github.com/Enolez/q2a-custom-404-page
+	Plugin Description: Customized 404 page for Enolez 
 	Plugin Version: 1.1
 	Plugin Date: 2014-07-25
-	Plugin Author: Amiya Sahu 
-	Plugin Author URI: http://amiyasahu.com/
+	Plugin Author: Masud 
+	Plugin Author URI: http://enolez.com/user/আব্দুল্লাহ+আল+মাসুদ
 	Plugin License: GPLv2
 	Plugin Minimum Question2Answer Version: 1.3.2
 	Plugin Update Check URI: https://raw.githubusercontent.com/amiyasahu/q2a-custom-404-page/master/qa-plugin.php
