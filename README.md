@@ -1,4 +1,4 @@
-Customized 404 page for Q2A
+Customized 404 page for Enolez
 ==============================
 
 Plugin Version
