@@ -96,13 +96,13 @@ class pt_qa_custom_404_page
 				return 1;
 				break;
 			case 'pt_q2a_html_404_message_codebox':
-				return '<span class="oops">Oooppss!!! 404 </span><span class="sorry">Sorry</span> , but we can not seem to find the page you are looking for . ';
+				return '<span class="oops"> পাওয়া যায় নি!!! </span><span class="sorry">দুঃখিত!</span> , আপনার কাংক্ষিত পৃষ্ঠাটি ই-নলেজে পাওয়া যায় নি! ';
 				break;
 			case 'pt_add_search_box_on_404':
 				return 1;
 				break;
 			case 'pt_search_box_on_404_lable':
-				return 'Whatever you were looking for was not found, but maybe try looking again or search using the form below.';
+				return 'দয়া করে আবার চেষ্টা করুন অথবা নিচের সার্চ বক্সে সার্চ করুন। ';
 				break;
 			case 'pt_404_costum_css':
 				return '/*Enter your custom CSS here */';
